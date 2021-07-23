@@ -1,2 +1,2 @@
 # simpleCalc
-standard/scientific calculator using Python
+standard/scientific calculator using Java
